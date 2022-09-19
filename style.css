@@ -1,0 +1,271 @@
+body
+{
+    background-color: lightskyblue;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.top
+{
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    background-color: goldenrod;
+    width: 1920px;
+    height: 120px;
+}
+
+.logo
+{
+    position: fixed;
+    top: 17px;
+    left: 650px;
+}
+
+.logomy1
+{
+    position: fixed;
+    top: 15px;
+    right: 1700px;
+}
+
+.logomy2
+{
+    position: fixed;
+    top: 15px;
+    right: 1600px;
+}
+
+.logomy3
+{
+    position: fixed;
+    top: 15px;
+    right: 1500px;
+}
+
+.login
+{
+    position: fixed;
+    top: 15px;
+    right: 100px;
+}
+
+.loginspaces
+{
+    width: 250px;
+    position: fixed;
+    top: 205px;
+    right: 800px;
+}
+
+.loginbutton
+{
+    position: fixed;
+    top: 280px;
+    right: 925px;
+}
+
+.textcenter
+{
+    font-size: x-large;
+    position: fixed;
+    top: 50px;
+    right: 780px;
+}
+
+.stronag
+{
+    position: fixed;
+    top: 350px;
+    right: 850px; 
+}
+
+.loginbox
+{
+    position: static;
+    background-color: goldenrod;
+    width: 100%;
+    height: 880px;
+}
+
+.creator
+{
+    text-align: center;
+}
+
+.categories
+{
+    position: fixed;
+    top: 100px;
+    left: 740px;
+    font-size: xx-large;
+}
+
+.shirts
+{
+    position: fixed;
+    top: 250px;
+    left: 1300px;
+    width: 400px;
+    height: fit-content;
+    background-color: burlywood;
+    text-align: center;
+    font-size: xx-large;
+}
+
+.pants
+{
+    position: fixed;
+    top: 250px;
+    left: 700px;
+    width: 400px;
+    height: fit-content;
+    background-color: burlywood;
+    text-align: center;
+    font-size: xx-large;
+}
+
+.acs
+{
+    position: fixed;
+    top: 250px;
+    left: 100px;
+    width: 400px;
+    height: fit-content;
+    background-color: burlywood;
+    text-align: center;
+    font-size: xx-large;
+}
+
+.bottom 
+{
+    text-align: center;
+    position: fixed;
+    top: 900px;
+    left: 0px;
+    background-color: goldenrod;
+    width: 1920px;
+    height: 100px;
+}
+
+.koszulka1
+{
+    position: fixed;
+    top: 150px;
+    left: 200px;
+}
+
+.koszulka2
+{
+    position: fixed;
+    top: 150px;
+    left: 700px;
+}
+
+.bluza1
+{
+    position: fixed;
+    top: 150px;
+    left: 1200px;
+}
+
+.loggedintext
+{
+    font-size: xx-large;
+    position: fixed;
+    top: 200px;
+    left: 500px;
+}
+
+.koszulka1buy
+{
+    position: fixed;
+    top: 150px;
+    left: 200px;
+}
+
+.buybox1
+{
+ background-color: goldenrod;
+ height: 500px;   
+ width: 400px;
+ position: fixed;
+ top: 150px;
+ left: 800px;
+ text-align: center;
+ font-size: x-large;
+}
+
+.kupteraz1
+{
+ background-color: whitesmoke;
+ height: 100px;   
+ width: 100px;
+ position: fixed;
+ top: 400px;
+ left: 940px;
+ text-align: center;
+ font-size: x-large;
+}
+
+.textcenter1
+{
+    font-size: x-large;
+    position: fixed;
+    top: 100px;
+    right: 780px;
+}
+
+.textcenter2
+{
+    font-size: x-large;
+    position: fixed;
+    top: 100px;
+    right: 780px;
+}
+
+.textcenter3
+{
+    font-size: x-large;
+    position: fixed;
+    top: 100px;
+    right: 780px;
+}
+
+.buyspaces1
+{
+    width: 350px;
+    position: fixed;
+    top: 205px;
+    right: 730px;
+}
+
+.buyspaces2
+{
+    width: 250px;
+    position: fixed;
+    top: 205px;
+    right: 800px;
+}
+
+.buyspaces3
+{
+    width: 250px;
+    position: fixed;
+    top: 205px;
+    right: 800px;
+}
+
+.kupteraz11
+{
+    position: fixed;
+    top: 400px;
+    left: 900px;
+}
+
+.zamowionetext
+{
+    font-size: xx-large;
+    position: fixed;
+    top: 200px;
+    left: 747px;
+}
